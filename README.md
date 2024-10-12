@@ -1,4 +1,6 @@
 # HolidayPosterBot
+Holiday Poster is a Python script that finds and posts holiday details on Reddit, using Wikipedia and the holidays library to fetch holiday summaries.
+
 [![Static Badge](https://img.shields.io/badge/logging-red)](https://pypi.org/project/logging/)
 [![Static Badge](https://img.shields.io/badge/pycountry-gray)](https://pypi.org/project/pycountry/)
 [![Static Badge](https://img.shields.io/badge/datetime-pink)](https://pypi.org/project/datetime/)
@@ -6,10 +8,6 @@
 [![Static Badge](https://img.shields.io/badge/holidays-gray)](https://pypi.org/project/holidays/)
 [![Static Badge](https://img.shields.io/badge/praw-blue)](https://pypi.org/project/praw/)
 [![Static Badge](https://img.shields.io/badge/wikipedia-green)](https://pypi.org/project/wikipedia/)
-
-
-
-Holiday Poster is a Python script that finds and posts holiday details on Reddit, using Wikipedia and the holidays library to fetch holiday summaries.
 
 ## Table of Contents
 
